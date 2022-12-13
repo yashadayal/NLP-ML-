@@ -7,4 +7,5 @@ The project is based on Multi-Label Classification, the data is trained with var
 4. Threatening
 5. Disrespect
 6. Targeted Hate
+
 With Test dataset, this trained model gives 98% accuracy.
