@@ -1,4 +1,4 @@
-# NLP-ML-
+# NLP-ML
 
 The project is based on Multi-Label Classification, the data is trained with various models(LR, SVC, etc) having output as comments with following 6 categories:
 1. Harsh
